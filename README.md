@@ -127,7 +127,7 @@ Usage: To use this script, create a YAML testbed file containing information abo
 
 
 ## Conclusion:
-Elevate your cybersecurity compliance by adopting artificial intelligence to audit and enhance your Cisco network devices. Our Python script, powered by OpenAI's GPT-3.5-turbo model, equips you with the advanced capabilities needed to strengthen network security and stay ahead of emerging threats. Transform your network security management with AI-driven insights today!
+Elevate your cybersecurity compliance by adopting artificial intelligence to audit and enhance your network devices. This Python script, powered by OpenAI's GPT-3.5-turbo model, equips you with the advanced capabilities needed to strengthen network security and stay ahead of emerging threats. Transform your network security management with AI-driven insights today!
 
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
