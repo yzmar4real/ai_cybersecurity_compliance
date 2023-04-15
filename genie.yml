@@ -1,0 +1,15 @@
+devices:
+  <your device hostname>:
+    connections:
+      cli:
+        ip: <your device IP>
+        protocol: ssh
+    credentials:
+      default:
+        password: <your device password>
+        username: <your device username>
+      enable:
+        password: <your device enable password>
+    os: <your device os - e.g ios, nxos>
+    type: <your device type - e.g ios, nxos>
+    alias: <your device alias/nickname>
