@@ -9,7 +9,7 @@ openai.api_key = <insert your API key here>
 
 logging.basicConfig(level=logging.DEBUG)
 
-testbed = load('device.yml')
+testbed = load('genie.yml')
 
 for dev in testbed: 
        
