@@ -54,6 +54,26 @@ $ docker pull ciscotestautomation/pyats:latest
 
 $ docker run -it ciscotestautomation/pyats:latest /bin/bash
 
+4. Clone the repository
+
+git clone https://github.com/yzmar4real/ai_cybersecurity_compliance.git
+
+5. CD into the directory 
+
+cd ai_cybersecurity_compliance
+
+6. (Optional) Use the directory as a virtual environment for the project
+
+python3 -m venv . 
+
+7. (Optional) Start the virtual environment and install the requirements for the project
+
+source bin/activate
+
+8. Install Open AI 
+
+pip3 install openai
+
 ## Step 1 - Downloading - Option B Using GIT
 
 1. Clone the repository
@@ -75,6 +95,10 @@ source bin/activate
 5. Install Open AI 
 
 pip3 install openai
+
+6. Install PyATS
+
+pip3 install pyats['standard']
 
 ## Step 2 - Defining the Testbed for devices to be audited
 
