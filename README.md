@@ -149,7 +149,7 @@ except Exception as e: Catches any exceptions that might occur during the execut
 logging.error(str(e)): Logs the error message to help with debugging.
 Usage: To use this script, create a YAML testbed file containing information about the network devices you want to audit. Then, provide your OpenAI API key and execute the script. The script will output the GPT-3.5-turbo model's recommendations for improving the security of your devices.
 
-## Outputs ![Sample Output](Output_1.jpg)
+## Outputs ![(Output_1.jpg)]
 
 ## Conclusion:
 Elevate your cybersecurity compliance by adopting artificial intelligence to audit and enhance your network devices. This Python script, powered by OpenAI's GPT-3.5-turbo model, equips you with the advanced capabilities needed to strengthen network security and stay ahead of emerging threats. Transform your network security management with AI-driven insights today!
