@@ -156,4 +156,6 @@ Elevate your cybersecurity compliance by adopting artificial intelligence to aud
 ## Contacts
 *Oluyemi Oshunkoya (yemi_o@outlook.com)
 
+## Generative AI Disclaimer
 
+This repository requires interaction with 3rd-party Generative AI platform. All your data and software or device output that you enter as a part of the prompt can be used for research or retraining the models. For ChatGPT, see https://openai.com/policies/privacy-policy Chapter "8. Security and Retention" and "9. International users"
