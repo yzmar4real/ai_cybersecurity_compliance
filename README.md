@@ -3,6 +3,8 @@ AI-Powered CyberSecurity Compliance: Boost Network Security with PYATS & OpenAI 
 
 Revolutionize your  network device audits and security enhancements using Cisco's PYATS and cutting-edge artificial intelligence.
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/yzmar4real/ai_cybersecurity_compliance)
+
 ## Introduction:
 Step into the future of cybersecurity compliance with our Python script designed to streamline the auditing and security enhancement process for your Cisco network devices. Harness the power of OpenAI's GPT-3.5-turbo model to evaluate device configurations and receive actionable recommendations for optimizing security.
 
